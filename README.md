@@ -13,6 +13,7 @@ I. Introduction.
 
 Summer 2012 I had the chance to work for a French video game company. That was awesome! 
 There will be no code in this repository. Instead, I will explain what I did.
+Download the game here https://play.google.com/store/apps/details?id=com.sega.hodoklr&hl=en
 
 
 II. First part: work on the game engine.
